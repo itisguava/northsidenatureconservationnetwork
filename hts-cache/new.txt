@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:23:57	46725/46725	---MCZ	200	added ('OK')	text/html	date:Sat,%2020%20Jun%202026%2008:23:56%20GMT	https://playqwerty.my.canva.site/sdvsdv	./nncn/playqwerty.my.canva.site/sdvsdv.html	(from )
+18:23:58	387/387	---MCZ	404	error ('Not%20Found')	text/html	date:Sat,%2020%20Jun%202026%2008:23:57%20GMT	https://playqwerty.my.canva.site/robots.txt		(from )
